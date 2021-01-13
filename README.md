@@ -1,0 +1,2 @@
+# ShoppingCart-DeliveryService
+Angular-Ionic shopping-cart using Firebase,  Codetribe-Tasks; Populating an Array of object with data extracted from firebase-Firestore, Add items to cart. items in the cartview can be reduced, increased or deleted from the cart. The user can signup and login using firebase authentication, user can add new address, place order and view both addresses and order history.. user can search for a new address from the map.
